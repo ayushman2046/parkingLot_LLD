@@ -4,7 +4,7 @@
 ** Functional requirements **
 ``` 
 1. A parking lot has masny floors
-2. each floor contains maqny vehicles of different types
+2. each floor contains many vehicles of different types
 3. when A vehicke arrives book a slot for it and issue a ticket also
 4. when A vehicle leaves free that slot and calculate the fee.
 ```
